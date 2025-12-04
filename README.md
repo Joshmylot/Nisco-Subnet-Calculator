@@ -19,3 +19,16 @@ This tool is perfect for network engineers, students, or anyone learning about s
 - Developer-friendly: easily extendable for other networking tools
 
 
+# How To Run
+The Tool is Hosted here:
+https://nisco-subnet-calculator.vercel.app/
+
+
+## How To Run Locally:
+1. Clone the repository:  `git clone https://github.com/Joshmylot/Nisco-Subnet-Calculator/`
+
+2. Install dependencies:  `npm install`
+
+3. Start development server: `npm run dev`
+
+4. Open your browser at http://localhost:3000
