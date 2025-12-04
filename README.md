@@ -1,5 +1,5 @@
 # Nisco Subnet Calculator
-🚀 About
+### 🚀 About
 This is a modern Subnet Calculator Web App built with Next.js, TypeScript, and TailwindCSS.
 It allows users to:
 - Calculate network address, broadcast address, first & last usable hosts
@@ -11,7 +11,7 @@ It allows users to:
 This tool is perfect for network engineers, students, or anyone learning about subnetting.
 
 
-🌟 Features
+### 🌟 Features
 - Standard IPv4 subnet calculations
 - Advanced VLSM support
 - Friendly error messages for invalid inputs
@@ -32,3 +32,17 @@ https://nisco-subnet-calculator.vercel.app/
 3. Start development server: `npm run dev`
 
 4. Open your browser at http://localhost:3000
+
+# 📬 Feedback & Suggestions
+
+I’d love to hear from you!
+
+Suggestions: If you have ideas to improve this app, please let me know.
+
+New Tools: If you want me to build other web tools or network utilities, send me a message or open an issue in this repo.
+
+Your feedback helps make this project even better!
+
+# ⚡ License
+
+This project is open-source and free to use.
