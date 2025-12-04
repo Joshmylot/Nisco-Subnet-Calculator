@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   keywords: ["Subnet Calculator", "VLSM", "IPv4", "Networking Tools", "Cisco", "CIDR"],
   authors: [{ name: "Joshua Omokanju" }],
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.png",
   },
   openGraph: {
     title: "Nisco Subnet Calculator",
