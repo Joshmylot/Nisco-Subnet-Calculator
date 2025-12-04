@@ -1,4 +1,4 @@
-# Subnet-calc
+# Nisco Subnet Calculator
 🚀 About
 This is a modern Subnet Calculator Web App built with Next.js, TypeScript, and TailwindCSS.
 It allows users to:
